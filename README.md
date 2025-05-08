@@ -1,4 +1,5 @@
 Teste de Automação - Página de Compras + Banco de Dados
+
 Este projeto realiza a automação de testes com foco na integração entre uma API e um banco de dados MySQL. Ele executa os seguintes cenários:
 
 Cenário 1: Cria e popula uma tabela de usuários com dados recebidos de uma API.
